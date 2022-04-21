@@ -1,0 +1,12 @@
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\bin\Debug\net6.0\LibrairieClasses_Test.deps.json
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\bin\Debug\net6.0\LibrairieClasses_Test.dll
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\bin\Debug\net6.0\ref\LibrairieClasses_Test.dll
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\bin\Debug\net6.0\LibrairieClasses_Test.pdb
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\obj\Debug\net6.0\LibrairieClasses_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\obj\Debug\net6.0\LibrairieClasses_Test.AssemblyInfoInputs.cache
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\obj\Debug\net6.0\LibrairieClasses_Test.AssemblyInfo.cs
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\obj\Debug\net6.0\LibrairieClasses_Test.csproj.CoreCompileInputs.cache
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\obj\Debug\net6.0\LibrairieClasses_Test.dll
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\obj\Debug\net6.0\ref\LibrairieClasses_Test.dll
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\obj\Debug\net6.0\LibrairieClasses_Test.pdb
+C:\Users\Saifoulaye\Documents\SolutionRechercheDichoTestxUnit\LibrairieClasses_Test\obj\Debug\net6.0\LibrairieClasses_Test.csproj.AssemblyReference.cache

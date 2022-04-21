@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49155265-4045-4da2-81d2-56aef05848b6": {
+      "ProjectGuid": "49155265-4045-4da2-81d2-56aef05848b6",
+      "DisplayName": "XUnitTestProject",
+      "ColorIndex": 0
+    },
+    "ea165069-724f-40c7-a540-54a80e5195f8": {
+      "ProjectGuid": "ea165069-724f-40c7-a540-54a80e5195f8",
+      "DisplayName": "LibrairieClasses_Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
